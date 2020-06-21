@@ -1,0 +1,6 @@
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\bin\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.deps.json
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\bin\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.dll
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.csprojAssemblyReference.cache
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.AssemblyInfoInputs.cache
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.AssemblyInfo.cs
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\bin\Debug\netcoreapp3.1\AvaloniaTestApp.Core.dll
