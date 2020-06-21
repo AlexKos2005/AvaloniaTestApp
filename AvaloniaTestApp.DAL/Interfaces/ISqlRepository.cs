@@ -5,7 +5,7 @@ using AvaloniaTestApp.DAL.DTO;
 
 namespace AvaloniaTestApp.DAL.Interfaces
 {
-    interface ISqlRepository
+   public interface ISqlRepository
     {
         (bool IsError, string Message,List<ChequeDTO> Values) GetValuesByDateWithResult(DateTime date);
         (bool IsError, string Message) DeleteValuesByDatesWithResult(short daysCount);

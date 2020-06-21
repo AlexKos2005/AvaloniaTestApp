@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using AvaloniaTestApp.DAL.DTO;
 
 namespace AvaloniaTestApp.DAL.Interfaces
 {
-    interface IJsonRepository
+   public interface IJsonRepository
     {
-        (bool IsError, string Message) GetSettingsWithResult();
-        (bool IsError, string Message) SetSettingsWithResult();
+        (bool IsError, string Message,SettingsDTO settings) GetSettingsWithResult();
+        (bool IsError, string Message) SetSettingsWithResult(SettingsDTO settingsDTO);
     }
 }

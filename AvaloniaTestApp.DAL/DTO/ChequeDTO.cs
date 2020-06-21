@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AvaloniaTestApp.DAL.DTO
 {
-    class ChequeDTO
+    public class ChequeDTO
     {
         [Key]
         public Guid Guid { get; set; }

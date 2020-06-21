@@ -4,6 +4,7 @@ using System.Text;
 
 namespace AvaloniaTestApp.DAL.DTO
 {
+    [Serializable]
     public class SettingsDTO
     {
         public ushort DeletingPeriod { get; set; }

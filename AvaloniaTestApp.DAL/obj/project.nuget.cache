@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "79j0qyC6T90hx8niWLZKdZ11Y7fsPTAwdYIaXa2ac3wtCgQSk/3qyqS0NAF+sZpbFG5pVjL9jsTKn4EcK0spsg==",
+  "dgSpecHash": "0NyP+atVosTwzYoLvzk94reQgIZhu6t154L6ChgrcwV3s/5NNSpmG+7jg502rwGyIbtYu0SQ2VBU80iILy7YJA==",
   "success": true,
   "projectFilePath": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.DAL\\AvaloniaTestApp.DAL.csproj",
   "expectedPackageFiles": [
@@ -32,8 +32,9 @@
     "C:\\Users\\User\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.5.20278.1\\system.componentmodel.annotations.5.0.0-preview.5.20278.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-preview.3.20214.6\\system.diagnostics.diagnosticsource.5.0.0-preview.3.20214.6.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.3.20214.6\\system.runtime.compilerservices.unsafe.5.0.0-preview.3.20214.6.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.5.20278.1\\system.runtime.compilerservices.unsafe.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\5.0.0-preview.5.20278.1\\system.text.encodings.web.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.json\\5.0.0-preview.5.20278.1\\system.text.json.5.0.0-preview.5.20278.1.nupkg.sha512"
   ],
   "logs": []
 }

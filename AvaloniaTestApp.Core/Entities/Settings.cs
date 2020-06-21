@@ -4,7 +4,8 @@ using System.Text;
 
 namespace AvaloniaTestApp.Core.Entities
 {
-  public class Settings
+    [Serializable]
+    public class Settings
     {
         public ushort DeletingPeriod { get; set; }
         public string WebApiConnection { get; set; }
