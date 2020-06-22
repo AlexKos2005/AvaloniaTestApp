@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NModbus4" Version="3.0.0-alpha2" />
+    <PackageReference Include="System.IO.Ports" Version="5.0.0-preview.5.20278.1" />
+  </ItemGroup>
+
 </Project>

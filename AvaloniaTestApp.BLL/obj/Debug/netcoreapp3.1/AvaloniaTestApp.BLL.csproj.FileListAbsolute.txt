@@ -1,0 +1,8 @@
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.BLL\bin\Debug\netcoreapp3.1\AvaloniaTestApp.BLL.deps.json
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.BLL\bin\Debug\netcoreapp3.1\AvaloniaTestApp.BLL.dll
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.BLL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.BLL.AssemblyInfoInputs.cache
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.BLL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.BLL.AssemblyInfo.cs
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.BLL\bin\Debug\netcoreapp3.1\AvaloniaTestApp.BLL.pdb
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.BLL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.BLL.csproj.CoreCompileInputs.cache
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.BLL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.BLL.dll
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.BLL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.BLL.pdb

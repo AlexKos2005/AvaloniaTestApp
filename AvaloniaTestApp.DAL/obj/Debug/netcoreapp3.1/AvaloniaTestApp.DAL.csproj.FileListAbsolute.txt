@@ -4,3 +4,9 @@ C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\obj\Debug\netcoreapp3.1\AvaloniaTestA
 C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.AssemblyInfoInputs.cache
 C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.AssemblyInfo.cs
 C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\bin\Debug\netcoreapp3.1\AvaloniaTestApp.Core.dll
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\bin\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.pdb
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\bin\Debug\netcoreapp3.1\AvaloniaTestApp.Core.pdb
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.csproj.CoreCompileInputs.cache
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.csproj.CopyComplete
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.dll
+C:\Git\AvaloniaTestApp\AvaloniaTestApp.DAL\obj\Debug\netcoreapp3.1\AvaloniaTestApp.DAL.pdb

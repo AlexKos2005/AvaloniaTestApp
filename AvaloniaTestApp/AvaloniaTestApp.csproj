@@ -18,4 +18,8 @@
     <PackageReference Include="Avalonia.Desktop" Version="0.9.10" />
     <PackageReference Include="Avalonia.ReactiveUI" Version="0.9.10" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AvaloniaTestApp.BLL\AvaloniaTestApp.BLL.csproj" />
+    <ProjectReference Include="..\AvaloniaTestApp.DAL\AvaloniaTestApp.DAL.csproj" />
+  </ItemGroup>
 </Project>

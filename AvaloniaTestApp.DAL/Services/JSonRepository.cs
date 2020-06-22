@@ -70,7 +70,7 @@ namespace AvaloniaTestApp.DAL.Services
 
         public void MakeFile()
         {
-            var fileStream = new FileStream("Settings.json", FileMode.Open);
+            var fileStream = new FileStream("Settings.json", FileMode.OpenOrCreate);
             var stream =new StreamWriter(fileStream);
             
             var json = JsonSerializer.Serialize<Settings>( 

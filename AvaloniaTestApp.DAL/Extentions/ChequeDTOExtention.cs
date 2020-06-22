@@ -15,6 +15,7 @@ namespace AvaloniaTestApp.DAL.Extentions
                 Guid = chequeDTO.Guid,
                 Date = chequeDTO.Date,
                 Money = chequeDTO.Money,
+                CheckFlag=chequeDTO.CheckFlag,
 
             };
         }
@@ -26,6 +27,8 @@ namespace AvaloniaTestApp.DAL.Extentions
                 Guid = cheque.Guid,
                 Date = cheque.Date,
                 Money = cheque.Money,
+                CheckFlag = cheque.CheckFlag,
+
 
             };
         }

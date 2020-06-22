@@ -4,6 +4,209 @@
     "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp\\AvaloniaTestApp.csproj": {}
   },
   "projects": {
+    "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.BLL\\AvaloniaTestApp.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.BLL\\AvaloniaTestApp.BLL.csproj",
+        "projectName": "AvaloniaTestApp.BLL",
+        "projectPath": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.BLL\\AvaloniaTestApp.BLL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NModbus4": {
+              "target": "Package",
+              "version": "[3.0.0-alpha2, )"
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[5.0.0-preview.5.20278.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.Core\\AvaloniaTestApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.Core\\AvaloniaTestApp.Core.csproj",
+        "projectName": "AvaloniaTestApp.Core",
+        "projectPath": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.Core\\AvaloniaTestApp.Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0-preview.5.20278.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.DAL\\AvaloniaTestApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.DAL\\AvaloniaTestApp.DAL.csproj",
+        "projectName": "AvaloniaTestApp.DAL",
+        "projectPath": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.DAL\\AvaloniaTestApp.DAL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.Core\\AvaloniaTestApp.Core.csproj": {
+                "projectPath": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.Core\\AvaloniaTestApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0-preview.5.20278.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0-preview.5.20278.2, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0-preview.5.20278.1, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.0-preview.5.20278.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp\\AvaloniaTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -29,7 +232,14 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.BLL\\AvaloniaTestApp.BLL.csproj": {
+                "projectPath": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.BLL\\AvaloniaTestApp.BLL.csproj"
+              },
+              "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.DAL\\AvaloniaTestApp.DAL.csproj": {
+                "projectPath": "C:\\Git\\AvaloniaTestApp\\AvaloniaTestApp.DAL\\AvaloniaTestApp.DAL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
